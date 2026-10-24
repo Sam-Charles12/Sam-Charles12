@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:27272a&height=180&section=header&text=Oladipo%20SamCharles&fontColor=ededed&fontSize=40&fontAlignY=38&desc=Software%20%2B%20Electronics%20%7C%20Telecom%20track&descAlignY=60&descSize=16&descColor=a1a1aa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:27272a&height=180&section=header&text=Oladipo%20Sam-Charles&fontColor=ededed&fontSize=40&fontAlignY=38&desc=Software%20%2B%20Electronics%20%7C%20Telecom%20track&descAlignY=60&descSize=16&descColor=a1a1aa" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=EDEDED&center=true&vCenter=true&width=560&lines=Frontend+dev+(React+%2B+TypeScript);ECE+student+at+LASU;Heading+into+telecom+%26+network+engineering;Founder+of+The+Circuit+Room" alt="typing intro" />
 
